@@ -4,10 +4,12 @@
 
 # 🌐 Awesome Unified Data & Governance Catalog
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+<a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%44-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badgeDiscord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+[![Awesome](https://awesome.re/badge.svg)](https://github.com/ishandutta2007/Awesome-Awesome-Awesome)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/ishandutta2007/Awesome-Unified-Data-Governance-Catalog/graphs/commit-activity)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
+<a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
 > 🚀 **The definitive, SEO-optimized curated landscape and decision-making guide for Unified Data & Governance Catalogs, Active Metadata Management, Column-Level Data Lineage, and Enterprise Data Intelligence Platforms.**
 
@@ -19,6 +21,8 @@
 - [🏢 Enterprise SaaS & Hosted Platforms](#-enterprise-saas--hosted-platforms)
 - [⚡ Open-Source GitHub Projects](#-open-source-github-projects)
 - [⚖️ Total Cost of Ownership (TCO) & Trade-offs](#-total-cost-of-ownership-tco--trade-offs)
+- [💖 Support & Sponsorship](#-support--sponsorship)
+- [⭐ Star History](#-star-history)
 - [🤝 How to Contribute](#-how-to-contribute)
 - [⚠️ Disclaimer](#-disclaimer)
 
@@ -109,6 +113,24 @@ When choosing between commercial SaaS and self-hosted open-source governance cat
 ```
 
 > 💡 **Key Takeaway**: Self-hosting an open-source catalog saves upfront licensing fees, but requires ongoing operational commitments (~0.25 to 1.0 Platform Engineer FTE) to handle connector schema updates, search cluster re-indexing, Kafka streaming pipelines, and RBAC synchronization. Commercial SaaS is typically triggered when legal/compliance mandates demand external auditor approval logs and immutable records.
+
+---
+
+## 💖 Support & Sponsorship
+
+Thank you so much for using and exploring the **Awesome Unified Data & Governance Catalog**! If this curated guide and market analysis helped you evaluate data governance platforms, choose metadata architectures, or save research time, please consider supporting the project:
+
+- ⭐ **Star this repository** to help others discover it!
+- 🍴 **Fork and share** it with your data engineering, governance, and architecture teams.
+- ☕ **Support the maintainer**: You can buy a coffee or sponsor ongoing development via the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007).
+
+[![Sponsor ishandutta2007](https://img.shields.io/badge/Sponsor-%E2%9D%A4-ea4aaa?style=for-the-badge&logo=github-sponsors)](https://github.com/sponsors/ishandutta2007)
+
+---
+
+## ⭐ Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Unified-Data-Governance-Catalog&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Unified-Data-Governance-Catalog&type=date&legend=top-left)
 
 ---
 
