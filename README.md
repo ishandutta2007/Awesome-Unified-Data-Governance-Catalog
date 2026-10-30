@@ -75,9 +75,9 @@ The table below catalogs leading commercial SaaS data intelligence platforms. Th
 
 Open-source data catalogs provide flexible architectures for organizations wanting full data ownership, extensible metadata schemas, and zero vendor lock-in. 
 
-Repos below are sorted in descending order by **GitHub Star Count**:
+Repos below are sorted in descending order by **GitHub Stars_Count**:
 
-| 📦 Repository & Project | ⭐ GitHub Stars | ⚖️ License | 🛠️ Architecture & Core Stack | 🎯 Ideal Use Case |
+| 📦 Repository & Project | ⭐ GitHub_Stars | ⚖️ License | 🛠️ Architecture & Core Stack | 🎯 Ideal Use Case |
 | :--- | :--- | :--- | :--- | :--- |
 | **[OpenMetadata](https://github.com/open-metadata/OpenMetadata)** | [![Stars](https://img.shields.io/github/stars/open-metadata/OpenMetadata?style=social&color=white)](https://github.com/open-metadata/OpenMetadata/stargazers) | Apache-2.0 | Java, Dropwizard, Elasticsearch, MySQL / PostgreSQL | **Best for teams seeking an all-in-one governance solution** featuring data quality tests, profiler, native Data Marketplace, MCP server, and data contracts without complex microservices. |
 | **[DataHub](https://github.com/datahub-project/datahub)** | [![Stars](https://img.shields.io/github/stars/datahub-project/datahub?style=social&color=white)](https://github.com/datahub-project/datahub/stargazers) | Apache-2.0 | Java, Python, Kafka, Elasticsearch, Neo4j / MySQL | **Best for high-throughput, real-time metadata streaming**, complex column-level lineage, enterprise event queues, and vector search embeddings for GenAI applications. |
@@ -141,7 +141,7 @@ Contributions are welcome! Please help keep this reference comprehensive and acc
 1. 🍴 **Fork the repository** to your personal GitHub profile.
 2. 🌿 **Create a descriptive feature branch** (`git checkout -b feature/add-new-catalog`).
 3. 📝 **Add or update catalog entries** in `README.md` keeping formatting consistent with the existing tables.
-4. 🔍 **Verify links and metrics** (pricing figures, free tier limits, star badges, and revenue estimates).
+4. 🔍 **Verify links and metrics** (pricing figures, free tier limits, Stars_Badges, and revenue estimates).
 5. 🚀 **Submit a Pull Request** with a concise description of your additions.
 
 ---
